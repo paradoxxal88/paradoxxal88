@@ -1,33 +1,41 @@
 <h1 align="center">Hi 👋, I'm Juna Lei G. Sionillo</h1>
-<h3 align="center">Intermediate Full Stack Developer | 2nd Year BSIT</h3>
+<h3 align="center">2nd Year BSIT Student | Full Stack Developer | UI/UX Designer</h3>
 
 <br/>
 
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-I'm <strong>Juna Lei G. Sionillo</strong>, a Second Year BS Information Technology student navigating the exciting transition from writing basic scripts to building full-scale systems.
+I'm <strong>Juna Lei G. Sionillo</strong>, a Second Year BS Information Technology student building full-scale systems where strong backends meet thoughtful design.
 </p>
 
 <p align="center">
-I consider myself an <strong>intermediate full-stack developer</strong>—which really just means I've built enough projects to know how much I still have to learn, and I'm loving every bit of the exploration. My journey is all about moving past the tutorials and getting my hands dirty by trying new languages and creating projects to figure out how they actually work.
+I learn by building. I pick a tool I don't know, dream up a project, and work on it until it makes sense. Every repository here is another chapter of that process.
 </p>
 
 <p align="center">
-Right now, my journey lives at the intersection of powerful backends and intuitive design:
+🛠️ <strong>Desktop &amp; Web:</strong> Structured PyQt6 applications and Laravel web systems, built on clean code and strict MVC architecture.<br/>
+🎨 <strong>User Experience:</strong> Software should be as pleasant to look at as it is functional. I put real effort into interfaces people actually want to use.
 </p>
 
 <p align="center">
-🛠️ <strong>Desktop &amp; Web:</strong> I enjoy crafting structured PyQt6 applications and web systems in Laravel, always obsessing over clean code and strict MVC architecture.<br/>
-🎨 <strong>User Experience:</strong> I believe software should be as delightful to look at as it is functional. I put a lot of effort into making sure the UI doesn't make people want to immediately close the tab.
+👨‍💻 All my projects: <a href="https://github.com/paradoxxal88">github.com/paradoxxal88</a>
+</p>
+
+---
+
+<h2 align="center">🎨 Why I Love Designing</h2>
+
+<p align="center">
+My favorite part of any project starts before the first line of code: opening <strong>Figma</strong> and giving the idea a face.
 </p>
 
 <p align="center">
-I don't just read documentation cover-to-cover; I pick a tool I don't know, dream up a project, and build it until it makes sense. Every repo here is another chapter in my learning story.
+I enjoy arranging layouts, choosing colors and typography, and turning a rough sketch into a clean, consistent screen. Then comes the part I enjoy most: linking those screens into a <strong>clickable prototype</strong> and watching the idea behave like a real product. Seeing someone tap through a flow I designed, with no code written yet, is what convinced me that design is not decoration. It is how you find problems early.
 </p>
 
 <p align="center">
-👨‍💻 All of my projects are available at <a href="https://github.com/paradoxxal88">github.com/paradoxxal88</a>
+That habit shapes how I build. I design in Figma first, then bring the same layout and flow into Laravel and PyQt6.
 </p>
 
 ---
@@ -39,13 +47,26 @@ I don't just read documentation cover-to-cover; I pick a tool I don't know, drea
     <tr>
       <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a></td>
       <td align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a></td>
-      <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></td>
-      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></td>
+      <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a></td>
       <td align="center"><a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a></td>
       <td align="center"><a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/></a></td>
-      <td align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="45" height="45"/></a></td>
-      <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/><</a></td>
-      <td align="center"><a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="45" height="45"/></a></td>
+      <td align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/></a></td>
+      <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a></td>
+      <td align="center"><a href="https://www.qt.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="45" height="45"/></a></td>
+      <td align="center"><a href="https://www.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/></a></td>
+    </tr>
+    <tr>
+      <td align="center">Python</td>
+      <td align="center">HTML5</td>
+      <td align="center">CSS3</td>
+      <td align="center">JavaScript</td>
+      <td align="center">Java</td>
+      <td align="center">Bootstrap</td>
+      <td align="center">Laravel</td>
+      <td align="center">MySQL</td>
+      <td align="center">Qt</td>
+      <td align="center">Figma</td>
     </tr>
   </table>
 </div>
@@ -57,13 +78,21 @@ I don't just read documentation cover-to-cover; I pick a tool I don't know, drea
 <h3 align="center">📦 <a href="https://github.com/paradoxxal88/CompShop_Management-System">StockraFlow — Inventory Management System</a></h3>
 
 <p align="center">
-A responsive, web-based inventory management system built with <strong>Laravel</strong> and <strong>MySQL</strong>, purpose-built for tracking computer hardware components. It features role-based access control distinguishing Admin and Staff workflows, real-time stock monitoring with low-stock alerts, and automated updates on delivery receipts. Powered by Eloquent ORM and a Bootstrap-driven UI, Stockra delivers accurate, multi-device hardware cataloging with full transaction logging for audit transparency.
+<code>Laravel</code> · <code>MySQL</code> · <code>Bootstrap</code>
+</p>
+
+<p align="center">
+A responsive web-based inventory system for tracking computer hardware components. It includes role-based access control for Admin and Staff, real-time stock monitoring with low-stock alerts, automated stock updates on delivery receipts, and full transaction logging for audit transparency. Built with Eloquent ORM and a Bootstrap-driven UI.
 </p>
 
 <h3 align="center">⏱️ <a href="https://github.com/jsionillo558815-cmyk/Sionillo_AttendanceMonitoringSystem-IT5">Attendify — Attendance Monitoring System</a></h3>
 
 <p align="center">
-A <strong>Python-based</strong> employee attendance monitoring system built with <strong>PyQt6</strong> and <strong>MySQL</strong>, designed to streamline daily check-ins and check-outs in medium-sized organizations. It features role-based access control distinguishing Admin and Employee workflows, real-time attendance recording, and automated generation of weekly/monthly punctuality reports. Powered by a centralized database on XAMPP and an intuitive Qt Designer-driven interface, Attendify minimizes manual errors and administrative overhead.
+<code>Python</code> · <code>PyQt6</code> · <code>MySQL</code>
+</p>
+
+<p align="center">
+A desktop attendance system for medium-sized organizations. It includes role-based access control for Admin and Employee, real-time check-in and check-out recording, and automated weekly and monthly punctuality reports. Backed by a centralized XAMPP database and a Qt Designer interface that minimizes manual errors and administrative overhead.
 </p>
 
 ---
@@ -82,7 +111,7 @@ A <strong>Python-based</strong> employee attendance monitoring system built with
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=paradoxxal88&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=paradoxxal88&theme=transparent&hide_border=true&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
