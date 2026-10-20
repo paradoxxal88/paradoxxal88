@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juna Lei G. Sionillo</h1>
-<h3 align="center">2nd Year BSIT Student | Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">BSIT Student | Full Stack Developer | UI/UX Designer</h3>
 
 <br/>
 
